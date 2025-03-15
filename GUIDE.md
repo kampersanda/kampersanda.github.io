@@ -7,8 +7,8 @@ First, see https://sighingnow.github.io/jekyll-gitbook/.
 Start the server with the following command:
 
 ```console
-docker-compose build
-docker-compose up
+docker compose build
+docker compose up
 ```
 
 http://localhost:4000/ will be available.

@@ -1,5 +1,5 @@
 ---
-title: Software
+title: プロジェクト
 author: Shunsuke Kanda
 date: 2022-03-22
 category: Jekyll
