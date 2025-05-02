@@ -52,3 +52,4 @@ permalink: /
 - [LinkedIn](https://www.linkedin.com/in/kampersanda/)
 - [Hatena Blog](https://kampersanda.hatenablog.jp/)
 - [Cosense](https://scrapbox.io/kampersanda-scraps/)
+- [しずかなインターネット](https://sizu.me/kampersanda)
