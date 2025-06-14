@@ -61,7 +61,7 @@ layout: post
 - 松本拓真, 神田峻介, 森田和宏, 泓田正雄. ダブル配列オートマトンによる圧縮文字列辞書の実装. 第11回Webとデータベースに関するフォーラム, 2018年9月 **(学生奨励賞)**
 - 神田峻介, 森田和宏, 泓田正雄. メモリ効率の良い動的Trie辞書の設計と実装. 第10回データ工学と情報マネジメントに関するフォーラム, 2018年3月
 - 松本拓真, 神田峻介, 森田和宏, 泓田正雄. ダブル配列オートマトンの圧縮手法. 第10回データ工学と情報マネジメントに関するフォーラム, 2018年3月
-- Shunsuke Kanda. Space- and Time-Efficient String Dictionaries, Ph.D. thesis, March 2018 [repo](https://repo.lib.tokushima-u.ac.jp/ja/list/theses/hkougaku/item/111684) [slide](https://speakerdeck.com/kampersanda/ph-dot-d-thesis)
+- Shunsuke Kanda. Space- and Time-Efficient String Dictionaries, Ph.D. thesis, March 2018 [repo](https://tokushima-u.repo.nii.ac.jp/records/2004859) [slide](https://speakerdeck.com/kampersanda/ph-dot-d-thesis)
 
 ### 2017
 
