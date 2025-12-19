@@ -10,7 +10,7 @@ layout: post
 
 ### 2025
 
-- Hideo Bannai, Keisuke Goto, Masakazu Ishihata, Shunsuke Kanda, Dominik Köppl, and Takaaki Nishimoto. Computing NP-hard Repetitiveness Measures via MAX-SAT. *ACM Transactions on Algorithms*, 2025 [doi](https://doi.org/10.1145/3777895) [arXiv](https://arxiv.org/abs/2207.02571) [code](https://github.com/kg86/satcomp)
+- Hideo Bannai, Keisuke Goto, Masakazu Ishihata, Shunsuke Kanda, Dominik Köppl, Takaaki Nishimoto, and Bernardo Subercaseaux. Computing NP-hard Repetitiveness Measures via MAX-SAT. *ACM Transactions on Algorithms*, 2025 [doi](https://doi.org/10.1145/3777895) [arXiv](https://arxiv.org/abs/2207.02571) [code](https://github.com/kg86/satcomp)
 - 梶川 怜恩, 神田 峻介, 赤部 晃一, 小田 悠介. ベクトル検索におけるテキスト構造化の効果分析. 言語処理学会第31回年次大会, 2025年3月.
 
 ### 2024
@@ -124,4 +124,5 @@ layout: post
 - 査読者 @ JEA, SPE, ESA, SPIRE, CPM, BigData, etc.
 - コメンテーター @ DEIM 2019
 - Program Committee @ IEEE BigData 2022
+
 
