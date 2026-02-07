@@ -8,14 +8,19 @@ layout: post
 
 ## 論文
 
+### 2026
+
+- Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness on the Length of Double-Arrays with Logarithmic Alphabets. *Theory of Computing Systems*, 2026 (Preprint). [arXiv](https://arxiv.org/abs/2403.04951)
+- 佐多 亮明, 赤部 晃一, 神田 峻介, 小田 悠介. ESG-QA: 日本語ESG文書を対象としたマルチモーダル質問応答ベンチマークの構築. 言語処理学会第32回年次大会, 2026年3月.
+- 梶川 怜恩, 中山 功太, 小田 悠介, 神田 峻介, 赤部 晃一, 二宮 崇, 岡崎 直観. Omni-JDocVQA: 多種多様な文書を含んだ日本語視覚文書理解ベンチマークの構築. 言語処理学会第32回年次大会, 2026年3月.
+
 ### 2025
 
-- Hideo Bannai, Keisuke Goto, Masakazu Ishihata, Shunsuke Kanda, Dominik Köppl, Takaaki Nishimoto, and Bernardo Subercaseaux. Computing NP-hard Repetitiveness Measures via MAX-SAT. *ACM Transactions on Algorithms*, 2025 [doi](https://doi.org/10.1145/3777895) [arXiv](https://arxiv.org/abs/2207.02571) [code](https://github.com/kg86/satcomp)
+- Hideo Bannai, Keisuke Goto, Masakazu Ishihata, Shunsuke Kanda, Dominik Köppl, Takaaki Nishimoto, and Bernardo Subercaseaux. Computing NP-hard Repetitiveness Measures via MAX-SAT. *ACM Transactions on Algorithms*, 2025 [doi](https://doi.org/10.1145/3777895) [code](https://github.com/kg86/satcomp)
 - 梶川 怜恩, 神田 峻介, 赤部 晃一, 小田 悠介. ベクトル検索におけるテキスト構造化の効果分析. 言語処理学会第31回年次大会, 2025年3月.
 
 ### 2024
 
-- Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness for the Space-Optimality of Double-Array Tries. 2024 (Preprint). [arXiv](https://arxiv.org/abs/2403.04951)
 - Koichi Akabe, Shunsuke Kanda, Yusuke Oda, and Shinsuke Mori. Vaporetto: Efficient Japanese Tokenization Based on Improved Pointwise Linear Classification. 2024 (Preprint). [arXiv](https://arxiv.org/abs/2406.17185)
 - 王 昊, 藤田 正悟, 神田 峻介. 契約書条文に特化した文埋め込みモデルの構築. 情報処理学会第260回自然言語処理研究発表会, 2024年6月.
 - 坂内 英夫, 後藤 啓介, 神田 峻介, クップル ドミニク. 対数的な幅を持つ疎行列圧縮のNP完全性. 夏のLAシンポジウム, 2024年7月.
@@ -124,5 +129,6 @@ layout: post
 - 査読者 @ JEA, SPE, ESA, SPIRE, CPM, BigData, etc.
 - コメンテーター @ DEIM 2019
 - Program Committee @ IEEE BigData 2022
+
 
 
