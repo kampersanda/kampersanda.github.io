@@ -10,7 +10,7 @@ layout: post
 
 ### 2026
 
-- Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness on the Length of Double-Arrays with Logarithmic Alphabets. *Theory of Computing Systems*, 70(23), 2026. [doi](https://doi.org/10.1007/s00224-026-10262-1) [arXiv](https://arxiv.org/abs/2403.04951)
+- Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness on the Length of Double-Arrays with Logarithmic Alphabets. *Theory of Computing Systems*, 70(23), 2026 [doi](https://doi.org/10.1007/s00224-026-10262-1) [arXiv](https://arxiv.org/abs/2403.04951)
 - 佐多 亮明, 赤部 晃一, 神田 峻介, 小田 悠介. ESG-QA: 日本語ESG文書を対象としたマルチモーダル質問応答ベンチマークの構築. 言語処理学会第32回年次大会, 2026年3月.
 - 梶川 怜恩, 中山 功太, 小田 悠介, 神田 峻介, 赤部 晃一, 二宮 崇, 岡崎 直観. Omni-JDocVQA: 多種多様な文書を含んだ日本語視覚文書理解ベンチマークの構築. 言語処理学会第32回年次大会, 2026年3月.
 
@@ -94,7 +94,7 @@ layout: post
 
 ### 2014
 
-- 神田峻介, 森田和宏, 泓田正雄, 青江順一. 近似直線を用いたダブル配列の圧縮法. 情報処理学会第115回情報基礎とアクセス技術研究会, 2014年8月 **(学生奨励賞) (山下記念研究賞)**
+- 神田峻介, 森田和宏, 泓田正雄, 青江順一. 近似直線を用いたダブル配列の圧縮法. 情報処理学会第115回情報基礎とアクセス技術研究会, 2014年8月 **(学生奨励賞,山下記念研究賞)**
 
 ## 学会受賞歴
 
