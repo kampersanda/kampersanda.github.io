@@ -10,13 +10,13 @@ layout: post
 
 ### 2026
 
-- Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness on the Length of Double-Arrays with Logarithmic Alphabets. *Theory of Computing Systems*, 2026 (Preprint). [arXiv](https://arxiv.org/abs/2403.04951)
+- Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness on the Length of Double-Arrays with Logarithmic Alphabets. *Theory of Computing Systems*, 70(23), 2026. [doi](https://doi.org/10.1007/s00224-026-10262-1) [arXiv](https://arxiv.org/abs/2403.04951)
 - 佐多 亮明, 赤部 晃一, 神田 峻介, 小田 悠介. ESG-QA: 日本語ESG文書を対象としたマルチモーダル質問応答ベンチマークの構築. 言語処理学会第32回年次大会, 2026年3月.
 - 梶川 怜恩, 中山 功太, 小田 悠介, 神田 峻介, 赤部 晃一, 二宮 崇, 岡崎 直観. Omni-JDocVQA: 多種多様な文書を含んだ日本語視覚文書理解ベンチマークの構築. 言語処理学会第32回年次大会, 2026年3月.
 
 ### 2025
 
-- Hideo Bannai, Keisuke Goto, Masakazu Ishihata, Shunsuke Kanda, Dominik Köppl, Takaaki Nishimoto, and Bernardo Subercaseaux. Computing NP-hard Repetitiveness Measures via MAX-SAT. *ACM Transactions on Algorithms*, 2025 [doi](https://doi.org/10.1145/3777895) [code](https://github.com/kg86/satcomp)
+- Hideo Bannai, Keisuke Goto, Masakazu Ishihata, Shunsuke Kanda, Dominik Köppl, Takaaki Nishimoto, and Bernardo Subercaseaux. Computing NP-hard Repetitiveness Measures via MAX-SAT. *ACM Transactions on Algorithms*, 22(2): 1–25, 2025 [doi](https://doi.org/10.1145/3777895) [code](https://github.com/kg86/satcomp)
 - 梶川 怜恩, 神田 峻介, 赤部 晃一, 小田 悠介. ベクトル検索におけるテキスト構造化の効果分析. 言語処理学会第31回年次大会, 2025年3月.
 
 ### 2024
