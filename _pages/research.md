@@ -74,7 +74,7 @@ layout: post
 - Shunsuke Kanda, Kazuhiro Morita and Masao Fuketa. Compressed Double-array Tries for String Dictionaries Supporting Fast Lookup. *Knowledge and Information Systems (KAIS)*, 51(3): 1023–1042, 2017 [doi](https://doi.org/10.1007/s10115-016-0999-8) [pdf](https://kampersanda.github.io/pdf/KAIS2017.pdf) [code](https://github.com/kampersanda/cda-tries) [code](https://github.com/kampersanda/xcdat)
 - Shunsuke Kanda, Kazuhiro Morita and Masao Fuketa. Practical Implementation of Space-efficient Dynamic Keyword Dictionaries. In *Proceedings of the 24th International Symposium on String Processing and Information Retrieval (SPIRE)*, pp 221–233, 2017 **(Acceptance rate: 26/71=36%)** [doi](https://doi.org/10.1007/978-3-319-67428-5_19) [pdf](https://kampersanda.github.io/pdf/SPIRE2017.pdf) [slide](https://speakerdeck.com/kampersanda/spire-2017) [code](https://github.com/kampersanda/dynpdt) [code](https://github.com/kampersanda/bonsais)
 - Shunsuke Kanda, Kazuhiro Morita and Masao Fuketa. Practical String Dictionary Compression Using String Dictionary Encoding. In *Proceedings of the 3rd International Conference on Big Data Innovations and Applications (Innovate-Data)*, pp 1–8, 2017 **(Acceptance rate: 6/25=24%)** [doi](https://doi.org/10.1109/Innovate-Data.2017.9) [pdf](https://kampersanda.github.io/pdf/InnovateData2017.pdf) [slide](https://speakerdeck.com/kampersanda/innovatedata2017)
-- 神田峻介, 森田和宏, 泓田正雄. Path Decompositionを用いたメモリ効率の良い動的キーワード辞書の実装法. 第10回Webとデータベースに関するフォーラム, 2017年9月 **(学生奨励賞) (ヤフー株式会社賞)**
+- 神田峻介, 森田和宏, 泓田正雄. Path Decompositionを用いたメモリ効率の良い動的キーワード辞書の実装法. 第10回Webとデータベースに関するフォーラム, 2017年9月 **(学生奨励賞, ヤフー株式会社賞)**
 - 土井優太, 森田和宏, 神田峻介, 泓田正雄. Xorshiftを用いたダブル配列の圧縮手法. 第16回情報科学技術フォーラム, 2017年9月
 - 神田峻介, 森田和宏, 泓田正雄. 文字列辞書を用いた効率的な文字列辞書圧縮の検討と評価. 第9回データ工学と情報マネジメントに関するフォーラム, 2017年3月 **(学生プレゼンテーション賞)**
 
@@ -94,7 +94,7 @@ layout: post
 
 ### 2014
 
-- 神田峻介, 森田和宏, 泓田正雄, 青江順一. 近似直線を用いたダブル配列の圧縮法. 情報処理学会第115回情報基礎とアクセス技術研究会, 2014年8月 **(学生奨励賞,山下記念研究賞)**
+- 神田峻介, 森田和宏, 泓田正雄, 青江順一. 近似直線を用いたダブル配列の圧縮法. 情報処理学会第115回情報基礎とアクセス技術研究会, 2014年8月 **(学生奨励賞, 山下記念研究賞)**
 
 ## 学会受賞歴
 
