@@ -3,3 +3,6 @@
  * Its purpose is for users of the theme to be able to add css rules from a blank file
  *   these get simply added to the ones already active in the layout.
  */
+.book-body .body-inner {
+    padding-bottom: 50px;
+}
