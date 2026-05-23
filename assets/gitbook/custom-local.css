@@ -19,6 +19,14 @@
 .markdown-section.research-page a[href*="youtu.be"],
 .markdown-section.research-page a[href*="aip.riken.jp/video"],
 .markdown-section.research-page a[href*="tokushima-u.repo.nii.ac.jp"],
+.markdown-section.research-page a[href*="anlp.jp"],
+.markdown-section.research-page a[href*="db-event.jpn.org"],
+.markdown-section.research-page a[href*="randd.yahoo.co.jp"],
+.markdown-section.research-page a[href*="tokushima-u.ac.jp"],
+.markdown-section.research-page a[href*="ipsj.or.jp"],
+.markdown-section.research-page a[href*="kaken.nii.ac.jp"],
+.markdown-section.research-page a[href*="dbjapan.dbsj.org"],
+.markdown-section.research-page a[href*="archive.dbsj.org"],
 .markdown-section.research-page a[href*="onlinelibrary.wiley.com/share/author/"],
 .markdown-section.research-page a[href*="rdcu.be/"] {
     display: inline-block;
@@ -67,6 +75,23 @@
     background: #7c3aed;
 }
 
+.markdown-section.research-page a[href*="anlp.jp"],
+.markdown-section.research-page a[href*="db-event.jpn.org"],
+.markdown-section.research-page a[href*="randd.yahoo.co.jp"],
+.markdown-section.research-page a[href*="tokushima-u.ac.jp"],
+.markdown-section.research-page a[href*="ipsj.or.jp"] {
+    background: #8b5e3c;
+}
+
+.markdown-section.research-page a[href*="kaken.nii.ac.jp"] {
+    background: #2563eb;
+}
+
+.markdown-section.research-page a[href*="dbjapan.dbsj.org"],
+.markdown-section.research-page a[href*="archive.dbsj.org"] {
+    background: #4f46e5;
+}
+
 .markdown-section.research-page a[href*="onlinelibrary.wiley.com/share/author/"],
 .markdown-section.research-page a[href*="rdcu.be/"] {
     background: #6b7280;
@@ -84,6 +109,14 @@
 .markdown-section.research-page a[href*="youtu.be"]:hover,
 .markdown-section.research-page a[href*="aip.riken.jp/video"]:hover,
 .markdown-section.research-page a[href*="tokushima-u.repo.nii.ac.jp"]:hover,
+.markdown-section.research-page a[href*="anlp.jp"]:hover,
+.markdown-section.research-page a[href*="db-event.jpn.org"]:hover,
+.markdown-section.research-page a[href*="randd.yahoo.co.jp"]:hover,
+.markdown-section.research-page a[href*="tokushima-u.ac.jp"]:hover,
+.markdown-section.research-page a[href*="ipsj.or.jp"]:hover,
+.markdown-section.research-page a[href*="kaken.nii.ac.jp"]:hover,
+.markdown-section.research-page a[href*="dbjapan.dbsj.org"]:hover,
+.markdown-section.research-page a[href*="archive.dbsj.org"]:hover,
 .markdown-section.research-page a[href*="onlinelibrary.wiley.com/share/author/"]:hover,
 .markdown-section.research-page a[href*="rdcu.be/"]:hover {
     filter: brightness(0.92);
