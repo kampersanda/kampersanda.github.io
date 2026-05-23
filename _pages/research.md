@@ -4,6 +4,7 @@ author: Shunsuke Kanda
 date: 2022-03-21
 category: Jekyll
 layout: post
+body_class: research-page
 ---
 
 ## 論文

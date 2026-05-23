@@ -6,3 +6,85 @@
 .book-body .body-inner {
     padding-bottom: 50px;
 }
+
+.markdown-section.research-page a[href*="doi.org"],
+.markdown-section.research-page a[href*="arxiv.org/abs/"],
+.markdown-section.research-page a[href*="github.com"],
+.markdown-section.research-page a[href*="gitlab.com"],
+.markdown-section.research-page a[href$=".pdf"],
+.markdown-section.research-page a[href*="/pdf/"],
+.markdown-section.research-page a[href*="speakerdeck.com"],
+.markdown-section.research-page a[href*="sigport.org"],
+.markdown-section.research-page a[href*="youtube.com"],
+.markdown-section.research-page a[href*="youtu.be"],
+.markdown-section.research-page a[href*="aip.riken.jp/video"],
+.markdown-section.research-page a[href*="tokushima-u.repo.nii.ac.jp"],
+.markdown-section.research-page a[href*="onlinelibrary.wiley.com/share/author/"],
+.markdown-section.research-page a[href*="rdcu.be/"] {
+    display: inline-block;
+    margin-left: 0.2rem;
+    padding: 0.1rem 0.5rem;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    color: #fff;
+    font-size: 0.75em;
+    font-weight: 600;
+    line-height: 1.5;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.markdown-section.research-page a[href*="doi.org"] {
+    background: #0b57d0;
+}
+
+.markdown-section.research-page a[href*="arxiv.org/abs/"] {
+    background: #b31b1b;
+}
+
+.markdown-section.research-page a[href*="github.com"],
+.markdown-section.research-page a[href*="gitlab.com"] {
+    background: #24292f;
+}
+
+.markdown-section.research-page a[href$=".pdf"],
+.markdown-section.research-page a[href*="/pdf/"] {
+    background: #d93025;
+}
+
+.markdown-section.research-page a[href*="speakerdeck.com"],
+.markdown-section.research-page a[href*="sigport.org"] {
+    background: #0f766e;
+}
+
+.markdown-section.research-page a[href*="youtube.com"],
+.markdown-section.research-page a[href*="youtu.be"],
+.markdown-section.research-page a[href*="aip.riken.jp/video"] {
+    background: #ff0000;
+}
+
+.markdown-section.research-page a[href*="tokushima-u.repo.nii.ac.jp"] {
+    background: #7c3aed;
+}
+
+.markdown-section.research-page a[href*="onlinelibrary.wiley.com/share/author/"],
+.markdown-section.research-page a[href*="rdcu.be/"] {
+    background: #6b7280;
+}
+
+.markdown-section.research-page a[href*="doi.org"]:hover,
+.markdown-section.research-page a[href*="arxiv.org/abs/"]:hover,
+.markdown-section.research-page a[href*="github.com"]:hover,
+.markdown-section.research-page a[href*="gitlab.com"]:hover,
+.markdown-section.research-page a[href$=".pdf"]:hover,
+.markdown-section.research-page a[href*="/pdf/"]:hover,
+.markdown-section.research-page a[href*="speakerdeck.com"]:hover,
+.markdown-section.research-page a[href*="sigport.org"]:hover,
+.markdown-section.research-page a[href*="youtube.com"]:hover,
+.markdown-section.research-page a[href*="youtu.be"]:hover,
+.markdown-section.research-page a[href*="aip.riken.jp/video"]:hover,
+.markdown-section.research-page a[href*="tokushima-u.repo.nii.ac.jp"]:hover,
+.markdown-section.research-page a[href*="onlinelibrary.wiley.com/share/author/"]:hover,
+.markdown-section.research-page a[href*="rdcu.be/"]:hover {
+    filter: brightness(0.92);
+}
