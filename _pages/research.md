@@ -9,7 +9,7 @@ body_class: research-page
 
 ## 論文
 
-### 査読ありジャーナル
+### 査読あり論文誌
 
 1. Hideo Bannai, Keisuke Goto, Shunsuke Kanda, and Dominik Köppl. NP-Completeness on the Length of Double-Arrays and the Sparse Matrix Problem with at Least Logarithmic Alphabets/Widths. *Theory of Computing Systems*, 70(23), 2026 [doi](https://doi.org/10.1007/s00224-026-10262-1) [arXiv](https://arxiv.org/abs/2403.04951)
 1. Hideo Bannai, Keisuke Goto, Masakazu Ishihata, Shunsuke Kanda, Dominik Köppl, Takaaki Nishimoto, and Bernardo Subercaseaux. Computing NP-hard Repetitiveness Measures via MAX-SAT. *ACM Transactions on Algorithms*, 22(2): 1–25, 2025 [doi](https://doi.org/10.1145/3777895) [code](https://github.com/kg86/satcomp)
@@ -107,6 +107,3 @@ body_class: research-page
 1. 査読者 @ JEA, SPE, ESA, SPIRE, CPM, BigData, etc.
 1. コメンテーター @ DEIM 2019
 1. Program Committee @ IEEE BigData 2022
-
-
-
