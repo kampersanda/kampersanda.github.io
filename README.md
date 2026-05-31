@@ -4,6 +4,8 @@ title: 神田 峻介 / Shunsuke Kanda
 permalink: /
 ---
 
+{% include social-links.html %}
+
 ## 基本情報
 
 <img src="./assets/images/kampersanda.jpg" width="220px">
@@ -42,16 +44,3 @@ permalink: /
 
 - 統計検定2級（2024年8月）
 - 応用情報技術者（2013年12月）
-
-## リンク
-
-- [GitHub](https://github.com/kampersanda)
-- [Twitter](https://twitter.com/kampersanda)
-- [Speakerdeck](https://speakerdeck.com/kampersanda)
-- [Google Scholar](https://scholar.google.com/citations?user=9N9FgNQAAAAJ)
-- [researchmap](https://researchmap.jp/kampersanda)
-- [ORCID](https://orcid.org/0000-0002-5462-122X)
-- [LinkedIn](https://www.linkedin.com/in/kampersanda/)
-- [Hatena Blog](https://kampersanda.hatenablog.jp/)
-- [Cosense](https://scrapbox.io/kampersanda-scraps/)
-- [しずかなインターネット](https://sizu.me/kampersanda)
